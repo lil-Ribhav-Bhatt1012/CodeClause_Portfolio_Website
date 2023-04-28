@@ -15,7 +15,7 @@ This project is a personal portfolio website built using HTML, CSS, and JavaScri
   5. Contact section with a functional contact form and social media links <br>
   6. Built with HTML5, CSS3, and vanilla JavaScript <br>
   
-  #Usage:
+  # Usage:
  # The website is structured into the following main sections: <br>
   1. Home: A brief introduction and a call-to-action button leading to the projects section. <br>
   2. About: A brief bio, skills, and education background of the developer. <br>
