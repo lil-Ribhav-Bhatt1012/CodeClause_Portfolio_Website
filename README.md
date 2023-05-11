@@ -1,7 +1,8 @@
 # Portfolio Website:
 This project is a personal portfolio website built using HTML, CSS, and JavaScript. It showcases the work and skills of a web developer/designer, providing a platform for potential clients, collaborators, or employers to explore the developer's projects, learn about their background, and get in touch.
 
-![portfolio](https://user-images.githubusercontent.com/77582313/235234936-d885544e-1617-44a9-947b-376de10d747c.png)
+![portfolio_website](https://github.com/lil-Ribhav-Bhatt1012/CodeClause_Portfolio_Website/assets/77582313/5d3f75b4-c21c-41fe-9aac-bf0e9973df0b)
+
 
 # Table of Contents:
   1. Features <br>
